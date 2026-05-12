@@ -348,6 +348,7 @@ Compute:
 ### Open Source Projects
 
 - [ActorCloud](https://github.com/actorcloud/ActorCloud) - Open-source IoT Platform.
+- [BOFS](https://github.com/colbyj/bride-of-frankensystem) - Create online surveys and behavioral experiments based on declarative configuration files; extend functionality via Flask as-needed.
 - [Busy Beaver](https://github.com/busy-beaver-dev/busy-beaver) - Chicago Python's Community Engagement Slack bot.
 - [FlaskBB](https://github.com/flaskbb/flaskbb) - Classic forum software.
 - [Indico](https://github.com/indico/indico) - Feature-rich event management system, made at [CERN](https://home.cern/).
@@ -360,7 +361,6 @@ Compute:
 - [SimpleLogin](https://github.com/simple-login/app) - Protect your online identity with email alias.
 - [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) - Git hosting service (check out [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well).
 - [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
-- [BOFS](https://github.com/colbyj/bride-of-frankensystem) - Create online surveys and behavioral experiments based on declarative configuration files; extend functionality via Flask as-needed.
 
 ---
 
