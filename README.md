@@ -360,6 +360,7 @@ Compute:
 - [SimpleLogin](https://github.com/simple-login/app) - Protect your online identity with email alias.
 - [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) - Git hosting service (check out [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well).
 - [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
+- [BOFS](https://github.com/colbyj/bride-of-frankensystem) - Create online surveys and behavioral experiments based on declarative configuration files; extend functionality via Flask as-needed.
 
 ---
 
